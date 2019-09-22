@@ -1,4 +1,4 @@
-# app-analysis
+# App-analysis
 This is a python function based analysis solution. The file analyzes the Google playstore apps and the apple store apps.
 The code default function build is to study free apps, and make reasonable provision/suggestion to a company that generates revenue from producing free apps as reliance is on users using the app. It checks for successful free apps by `user-ratings`, `genres`, etc but most importantly, the `price` column since free apps is major in our analysis of the google and apple apps.
 
@@ -7,7 +7,7 @@ Data cleaning was done for incorrectly shifted rows.
 The code uses functions approach to make it easy to analyze both data using a single function with a few arguments adjustment.
 
 ## Files
-You would find in the `App data` folder the `AppleStore.csv` file (comma delimeted) as well as the `googleplaystore.csv` file 
+You would find in the `app data` folder the `AppleStore.csv` file (comma delimeted) as well as the `googleplaystore.csv` file 
 
 The codes are served using the Jupyter Notebook `.ipynb` extension.
 
